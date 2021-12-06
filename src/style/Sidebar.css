@@ -1,0 +1,303 @@
+.sidebar
+{
+    width: 15%;
+    background-color: rgb(227, 235, 230);
+    padding:50px;
+    height:100vh;
+}
+.menus
+{
+display: flex;
+justify-content: space-evenly;
+align-items: center;
+padding-top: 10px;
+}
+.dash
+{
+ height: 30px;
+ width: 30px;
+ border: 2px solid #ffff;
+
+ margin-bottom: 25px;
+ border-radius: 50%;
+ 
+ 
+}
+.proj
+{
+  
+ height: 30px;
+ width: 30px;
+ border: 2px solid #ffff;
+
+ margin-bottom: 25px;
+
+}
+.cal
+{
+    height: 30px;
+    width: 30px;
+    border: 2px solid #ffff;
+  
+    margin-bottom: 25px;
+  
+}
+.task
+{
+    height: 30px;
+    width: 30px;
+    border: 2px solid #ffff;
+  
+    margin-bottom: 25px;
+    
+}
+.report
+{
+    height: 30px;
+    width: 30px;
+    border: 2px solid #ffff;
+  
+   
+    margin-bottom: 25px;
+    font-size: 1.5rem;  
+}
+.sett
+{
+    height: 30px;
+    width: 30px;
+    border: 2px solid #ffff;
+  
+    margin-bottom: 25px;  
+    font-size: 1.5rem;
+}
+
+.load
+{
+    color: rgb(92, 196, 92);
+    
+    padding-left: 85px;
+  
+}
+.loadicon
+{
+    height: 40px;
+    width: 40px;
+    margin-left: -40px;
+   margin-bottom: 30px;
+   
+}
+.manicon
+{
+    padding-right: 100px;
+    width: 70px;
+    height: 70px;
+    padding-top: 120px;
+    margin-left: 100px;
+}
+.upgradebtn
+{
+    background-color: rgb(84, 221, 118);
+    font-size: large;
+    border: none;
+    margin-left:70px;
+    width: 150px;
+    height: 40px;
+    color: white;
+   
+}
+.search
+{
+    display: flex;
+    margin-left: 80px;
+    
+}
+.imgname
+{
+    display: flex;
+    margin-left: 690px;
+
+}
+.project
+{
+    display: flex;
+}
+.imagesize
+{
+    display: flex;
+    width: 40px;
+    height: 40px;
+    border-radius: 25px;
+    margin-top: 13px;
+}
+.name
+{
+    margin-left: 19px;
+    margin-top: 20px;
+}
+.notificationicon
+{
+    width: 30px;
+    height: 30px;
+    margin-left: 45px;
+    margin-top: 20px;
+}
+.sea
+{
+    border: none;
+    font-size: 15px;
+    margin-top: 10px;
+}
+.seaicon
+{
+    margin-top: 25px;
+    width: 20px;
+    height: 20px;
+    
+}
+
+.projee{
+    display: flex;
+    margin-right: 90px;
+}
+.headingproj
+{
+    display: flex;
+    justify-content: space-between;
+    margin-top: 40px;
+    font-size: 2rem;
+    margin-left: 86px;
+    font-weight: 300;
+    font-weight: solid;
+}
+.createbtn
+{
+    display: flex;
+    margin-left: 870px;
+    height: 25px;
+   
+    
+}
+.proj16
+{
+    display: flex;
+    margin-top: 100px;
+    margin-left: -1100px;
+    margin-right: -10px;
+    
+}
+
+.teams5
+{
+    display: flex;
+    
+}
+.cnbtn
+{
+    width: 130px;
+    height: 30px;
+    font-size: 1rem;
+    background-color: rgb(84, 221, 118);
+    border: none;
+    margin-top:50px ;
+    color: white;
+}
+.sixteenprojs
+{
+    display: flex;
+  
+}
+.headproj16
+{
+    margin-top: 35px;
+    color: rgb(129, 118, 118);
+    
+}
+.list
+{
+    margin-top: 70px;
+    margin-right: 120px;
+   
+    
+    
+}
+.iconsixteen
+{
+    width: 60px;
+    height: 60px;
+    margin-right: -60px;
+    margin-top: 75px;
+    margin-left: -100px;
+    
+    border: none;
+
+}
+.ull
+{
+    margin-right: -40px;
+    margin-left: -35px;
+}
+.clients6
+{
+    display: flex;
+    margin-top: 100px;
+    margin-left: 170px;
+   
+ 
+}
+.clients
+{
+    margin-bottom: 135px; 
+    color: rgb(129, 118, 118);
+}
+.pp
+{
+    display: flex;
+}
+.teams
+{
+    margin-left: 250px;
+    margin-top: 80px;
+    color: rgb(129, 118, 118);
+}
+.numteam
+{
+    margin-left: 190px;
+    margin-top: 30px;
+}
+.numteam{
+   margin-top: 120px;
+}
+.tea
+{
+    margin-top: -105px;
+    margin-left: -36px;
+}
+.pclients
+{
+    margin-left: 30px;
+   margin-top: -45px;
+}
+.act
+{
+    color: skyblue;
+}
+.com
+{
+    color: rgb(163, 77, 163);
+}
+.yet
+{
+    color: rgb(223, 211, 51);
+}
+.cl6
+
+{
+    display: flex;
+}
+.icons
+{
+    display: flex;
+    margin-top: 80px;
+    margin-right: 60px;
+  
+}
