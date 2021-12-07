@@ -9,8 +9,9 @@ export default function Search() {
             <input type="search" placeholder="Search for anything" className="sea"/>
             <div className="imgname">
             <img className="imagesize" src={logo} alt="leano"/><div className="name">Leano Alvarado</div>
-            <MdNotificationsNone className="notificationicon"/>
+            
             </div>
+            <MdNotificationsNone className="notificationicon"/>
         </div>
     )
 }
